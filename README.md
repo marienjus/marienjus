@@ -15,3 +15,8 @@ You can click the Preview link to take a look at your changes.
 ### -> REST AND GRAPHQL APIs || Among more
 ### Database Design || Systems Design and Analyst
 ### DevOps and Automations specialist
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marienjus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marienjus&hide=HTML&count_private=true&theme=tokyonight">
+</p>
